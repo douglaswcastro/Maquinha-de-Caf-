@@ -1,0 +1,5 @@
+/home/douglas/Documentos/Projetos/ProvaPOO/ProvaPOO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/douglas/Documentos/Projetos/ProvaPOO/ProvaPOO/bin/Debug/ProvaPOO.exe.mdb
+/home/douglas/Documentos/Projetos/ProvaPOO/ProvaPOO/bin/Debug/ProvaPOO.exe
+/home/douglas/Documentos/Projetos/ProvaPOO/ProvaPOO/obj/x86/Debug/ProvaPOO.exe
+/home/douglas/Documentos/Projetos/ProvaPOO/ProvaPOO/obj/x86/Debug/ProvaPOO.exe.mdb

@@ -1,0 +1,5 @@
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\ProvaPOO\ProvaPOO\obj\x86\Debug\ProvaPOO.exe
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\ProvaPOO\ProvaPOO\bin\Debug\ProvaPOO.exe
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\ProvaPOO\ProvaPOO\bin\Debug\ProvaPOO.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\ProvaPOO\ProvaPOO\obj\x86\Debug\ProvaPOO.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\ProvaPOO\ProvaPOO\obj\x86\Debug\ProvaPOO.pdb
